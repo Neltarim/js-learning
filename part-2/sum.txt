@@ -1,0 +1,10 @@
+CHAP-1.
+    - if else
+    - switchs
+
+CHAP-2.
+    - for
+    - for in / for of
+    - while
+
+    TIME (NOT FINISHED) : 37min40
