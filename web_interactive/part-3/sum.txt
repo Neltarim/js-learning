@@ -1,0 +1,8 @@
+CHAP-1.
+    - Asynchronous (event loop and how to play with it)
+
+CHAP-2.
+    - Promises and Async/Await
+
+CHAP-3.
+    -chain Promises

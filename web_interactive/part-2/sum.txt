@@ -1,0 +1,10 @@
+CHAP-1.
+    - request API
+
+CHAP-2.
+    - cancel bad user inputs
+
+CHAP-3.
+    - POST requests
+
+    TIME : 1H08

@@ -1,0 +1,15 @@
+CHAP-1. 
+    - def de Variables et constantes
+
+CHAP-2.
+    - types of Variables
+
+CHAP-3.
+    - Classes
+
+CHAP-4.
+    - array
+
+
+
+TIME : 1H08

@@ -1,0 +1,14 @@
+CHAP-1.
+    - Access to the DOM
+
+CHAP-2.
+    - Modify the DOM (add,remove,replace etc)
+
+CHAP-3.
+    - Event listener and preventDefault
+
+CHAP-4.
+    - Mousemove event
+
+
+    TIME : 1H10

@@ -1,0 +1,14 @@
+CHAP-1.
+    - functions
+
+CHAP-2.
+    - class with methods
+    - statics methods
+
+CHAP-3.
+    - function imbrication
+
+FINAL EXAM.
+    + 10min
+
+    TIME: 1h06

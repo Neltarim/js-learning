@@ -1,0 +1,13 @@
+CHAP-1.
+    - if else
+    - switchs
+
+CHAP-2.
+    - for
+    - for in / for of
+    - while
+
+CHAP-3.
+    - try catch
+
+    TIME : 45min
