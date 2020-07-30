@@ -1,5 +1,7 @@
 from os import system as sc
 
+# Copy this script into the new dir and then execute it.
+
 dir_left_to_create = 4
 
 while dir_left_to_create > 0:
